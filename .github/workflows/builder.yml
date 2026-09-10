@@ -10,11 +10,11 @@ on:
         GSI:
               description: 'GSI Image Direct Link'
               required: true
-              default: 'https://github.com/naz664/ArrowOS_gsi/releases/download/v2023.10.28/ArrowOS-13.1-arm64_bgN-slim-Unofficial.img.xz'        # find some recommendations in readme (last lines)
+              default: 'https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/History/lineage-20.0-20250606-UNOFFICIAL-arm64_bgN-signed.img.gz/download''        # find some recommendations in readme (last lines)
         NAME:
               description: 'Rom Name'
               required: true
-              default: 'ArrowOS-13.1-arm64-ab-BgN-June2026-BIT9.7z' # idk bro name it anything
+              default: 'LineageOS-20.0-arm64-bgN-A035F-U9.7z'' # idk bro name it anything
         VERSION:
               description: 'Baseband Version'
               required: true
